@@ -1,5 +1,5 @@
 streamlit
-docx
+python-docx
 google
 cohere
 exceptions
