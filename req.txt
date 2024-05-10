@@ -2,4 +2,3 @@ streamlit
 python-docx
 google
 cohere
-exceptions
